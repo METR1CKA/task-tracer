@@ -1,6 +1,4 @@
-# Task Manager CLI
-
-URL : https://roadmap.sh/projects/task-tracker
+# Task Manager CLI : https://roadmap.sh/projects/task-tracker
 
 A simple command-line interface (CLI) for managing tasks. This project is built using Python and provides a user-friendly way to create, view, update, and delete tasks.
 
